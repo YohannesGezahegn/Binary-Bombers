@@ -10,3 +10,5 @@ Step 3:  To print a new line For i from 1 to rows and for j from 1 to columns,
           - If i is equal to 1 or i is equal to rows or j is equal to 1 or j is equal to columns, then Print "* ".
 -Else, print "  ".
   Step 4: Exit the program
+flowchart
+![hollow rectangle](https://github.com/YohannesGezahegn/Binary-Bombers/assets/149233041/908775e4-1004-47a6-be55-fd54908791c8)
