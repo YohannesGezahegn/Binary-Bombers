@@ -9,3 +9,6 @@ Step 3: For i from 0 to n - 1, set ch to 'A' and for j from 0 to I, output ch fo
 Step 4: Increment ch by 1
 Step 5: Output a newline to move to the next line.
 Step 6: end the program.
+flowchart
+
+![abcde pyramid pattern](https://github.com/YohannesGezahegn/Binary-Bombers/assets/149233041/37405100-8851-49c5-abdc-272389221502)
