@@ -10,3 +10,5 @@ Step 3: To print a new line use,
 -For space = 1 to rows - I, Print "  ".
 - For j = 1 to 2 * i - 1, Print "* ".
 Step 4: Exit the program.
+flowchart
+![full pyramid](https://github.com/YohannesGezahegn/Binary-Bombers/assets/149233041/8be30555-fb22-4cde-af90-eb318f8e54c5)
