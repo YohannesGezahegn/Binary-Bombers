@@ -14,3 +14,6 @@ Step 5: If currentLetter is greater than 'X'
 Step 6: If currentLetter is greater than 'X':
         Exit the outer loop.
 Step 7:exit the program.
+flowchart
+![letter rectangle](https://github.com/YohannesGezahegn/Binary-Bombers/assets/149233041/f8304a7e-d8c5-4f19-a414-d4d2c9ab1210)
+
