@@ -14,3 +14,6 @@ Output the values of initialNumber, " ",Increment initialNumber by 1 and respect
 Step 6:- If initialNumber > 49, then output newline character
              - If initialNumber > 49, then break outer loop
 Step 7: exit the program
+flowchart
+![10-49 pattern](https://github.com/YohannesGezahegn/Binary-Bombers/assets/149233041/8f8650f0-d9b4-49f5-b28a-4867621829fd)
+
