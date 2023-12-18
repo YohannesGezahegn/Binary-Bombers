@@ -16,5 +16,6 @@ Step 4: Display z.
 Step 5: If to continue the program, press any key to go to step 2.
 Step 6:  Else, press the number 0 to end the program.
 c.flowchart
-![Uploading simplecalculator.jpg…]()
+![simplecalculator](https://github.com/YohannesGezahegn/Binary-Bombers/assets/149233041/7d7c9864-e22e-4d4c-956d-e50a490f4c0c)
+
 
