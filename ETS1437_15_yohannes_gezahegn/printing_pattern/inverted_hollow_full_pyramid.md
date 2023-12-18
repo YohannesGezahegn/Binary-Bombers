@@ -10,3 +10,5 @@ Step 4:For j from 1 to (2 * i - 1),
      - If (j == 1 || j == 2 * i - 1 || i == rows) ,then print "* "
       -Else, then Print "  ".
  Step 5: Exit the program.
+flowchart
+![inverted hollow full pyramid(1)](https://github.com/YohannesGezahegn/Binary-Bombers/assets/149233041/05ff4774-709f-45d6-89bd-e5405cd2d940)
