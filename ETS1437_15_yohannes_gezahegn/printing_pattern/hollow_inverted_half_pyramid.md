@@ -9,3 +9,5 @@ Step 3: to print a new line for i from rows to 1 and for j from 1 to I ,
 -If j is equal to 1 or j is equal to i or i is equal to rows, then Print "* ".
 -Else, Print "  ".
  Step 4: Exit program.
+flowchart
+![hollow inverted half pyarmid](https://github.com/YohannesGezahegn/Binary-Bombers/assets/149233041/1954c5a5-ef1b-46fb-9fd1-1b7cb8da1ce1)
